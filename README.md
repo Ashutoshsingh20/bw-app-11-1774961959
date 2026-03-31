@@ -1,4 +1,4 @@
-# Bw App 11 1774961959
+# Pixel Pulse
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 
